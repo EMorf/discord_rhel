@@ -1,8 +1,8 @@
 # discord_rhel
-A script to install Discord on a RHEL-based system
+A script to install Discord on a Linux, Desktop-based system.
 
 ## Instructions
 
-```baash
+```bash
 sudo ./install_discord.sh
 ```
